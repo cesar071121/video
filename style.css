@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(250,255,14);
+background: linear-gradient(90deg, rgba(250,255,14,1) 46%, rgba(255,119,0,1) 100%);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+video{
+    width: 200px;
+    height: 200px; 
+    border: 2px  solid black; 
+    border-radius: 50%;
+}
+
+#imagen{
+    width: 600px;
+    height: 500px;
+    border-radius: 100%;
+    border: 3px double red;
+}
+
+h1{
+    background: rgb(255,14,14);
+    background: linear-gradient(90deg, rgba(255,14,14,1) 46%, rgba(0,228,255,1) 100%);
+color: blanchedalmond;
+}
+
+#color{
+    background: black;
+    color: white;
+    text-align: center;
+}
